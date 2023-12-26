@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="973pt" height="463pt" viewBox="0 0 973 463">
+ <title>Figure 1</title>
+ <desc>
+Creator: GL2PS 1.4.2, (C) 1999-2020 C. Geuzaine
+For: Octave
+CreationDate: Tue Dec 26 17:01:50 2023
+</desc>
+ <defs/>
+ <polygon points="0,0 973,0 973,463 0,463" fill="#ffffff"/>
+ <g>
+  <polygon points="0,463 973,463 973,0 0,0" fill="#ffffff" shape-rendering="crispEdges"/>
+  <clipPath id="cp00973463">
+   <polygon points="0,463 973,463 973,0 0,0"/>
+  </clipPath>
+  <g clip-path="url(#cp00973463)">
+   <polygon points="126.602,412.601 881.34,412.601 881.34,34.7695 126.602,34.7695" fill="#ffffff" shape-rendering="crispEdges"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(30.6048,223.685) rotate(-90,51,0)">
+    <text x="0 9 16 36 47 55 64 84 93 " fill="rgb(38,38,38)" y="-6">time (ms)</text>
+   </g>
+   <polygon points="259.938,412.601 259.938,122.741 189.496,122.741 189.496,412.601" fill="#2d88f5" shape-rendering="crispEdges"/>
+   <polygon points="637.308,412.601 637.308,102.59 566.866,102.59 566.866,412.601" fill="#2d88f5" shape-rendering="crispEdges"/>
+   <polyline points="126.602,412.601 881.34,412.601" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#000000" stroke-linejoin="round"/>
+   <polygon points="350.507,412.601 350.507,233.887 280.065,233.887 280.065,412.601" fill="#fec834" shape-rendering="crispEdges"/>
+   <polygon points="727.877,412.601 727.877,213.736 657.435,213.736 657.435,412.601" fill="#fec834" shape-rendering="crispEdges"/>
+   <polygon points="441.076,412.601 441.076,89.9644 370.634,89.9644 370.634,412.601" fill="#8bca50" shape-rendering="crispEdges"/>
+   <polygon points="818.445,412.601 818.445,69.8135 748.003,69.8135 748.003,412.601" fill="#8bca50" shape-rendering="crispEdges"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(191.217,119.908) rotate(-0,33.5,0)">
+    <text x="0 12 24 36 43 55 " fill="rgb(0,0,0)" y="-0">306.87</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(574.587,99.7567) rotate(-0,27.5,0)">
+    <text x="0 12 24 36 43 " fill="rgb(0,0,0)" y="-0">328.2</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(287.786,231.053) rotate(-0,27.5,0)">
+    <text x="0 12 24 36 43 " fill="rgb(0,0,0)" y="-0">189.2</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(659.156,210.902) rotate(-0,33.5,0)">
+    <text x="0 12 24 36 43 55 " fill="rgb(0,0,0)" y="-0">210.53</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(372.355,87.1308) rotate(-0,33.5,0)">
+    <text x="0 12 24 36 43 55 " fill="rgb(0,0,0)" y="-0">341.57</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="24" xml:space="preserve" transform="translate(755.724,66.9798) rotate(-0,27.5,0)">
+    <text x="0 12 24 36 43 " fill="rgb(0,0,0)" y="-0">362.9</text>
+   </g>
+   <polyline points="315.286,412.601 315.286,34.7695" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="692.656,412.601 692.656,34.7695" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="315.286,412.601 315.286,405.057" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="315.286,34.7695 315.286,42.3135" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="692.656,412.601 692.656,405.057" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="692.656,34.7695 692.656,42.3135" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(235.786,445.594) rotate(-0,79.5,-18)">
+    <text x="0 10 21 30 38 48 58 67 74 88 98 104 112 119 127 133 150 " fill="rgb(38,38,38)" y="-4">average wait time</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(582.656,446.594) rotate(-0,110,-19)">
+    <text x="0 10 21 30 38 48 58 67 74 82 93 101 112 122 130 140 151 162 173 180 188 194 211 " fill="rgb(38,38,38)" y="-4">average turnaround time</text>
+   </g>
+   <polyline points="126.602,412.601 881.34,412.601" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,318.143 881.34,318.143" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,223.685 881.34,223.685" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,129.228 881.34,129.228" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,34.7695 881.34,34.7695" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke-dasharray="16,0" stroke-opacity="0.15" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,412.601 134.146,412.601" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,412.601 873.795,412.601" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,318.143 134.146,318.143" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,318.143 873.795,318.143" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,223.685 134.146,223.685" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,223.685 873.795,223.685" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,129.228 134.146,129.228" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,129.228 873.795,129.228" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,34.7695 134.146,34.7695" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,34.7695 873.795,34.7695" fill="none" stroke-width="0.5" stroke-linecap="butt" stroke="#262626" stroke-linejoin="round"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(106.605,420.101) rotate(-0,10,-7.5)">
+    <text x="0 " fill="rgb(38,38,38)" y="-0">0</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(86.6048,325.643) rotate(-0,30,-7.5)">
+    <text x="0 10 20 " fill="rgb(38,38,38)" y="-0">100</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(86.6048,231.185) rotate(-0,30,-7.5)">
+    <text x="0 10 20 " fill="rgb(38,38,38)" y="-0">200</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(86.6048,136.727) rotate(-0,30,-7.5)">
+    <text x="0 10 20 " fill="rgb(38,38,38)" y="-0">300</text>
+   </g>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="20" xml:space="preserve" transform="translate(86.6048,42.2697) rotate(-0,30,-7.5)">
+    <text x="0 10 20 " fill="rgb(38,38,38)" y="-0">400</text>
+   </g>
+   <polyline points="126.602,412.601 881.34,412.601" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,34.7695 881.34,34.7695" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="126.602,412.601 126.602,34.7695" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="round"/>
+   <polyline points="881.34,412.601 881.34,34.7695" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="round"/>
+  </g>
+  <clipPath id="cp00973463">
+   <polygon points="0,463 973,463 973,0 0,0"/>
+  </clipPath>
+  <g clip-path="url(#cp00973463)">
+   <polygon points="382.812,400.771 625.129,400.771 625.129,302.589 382.812,302.589" fill="#ffffff" shape-rendering="crispEdges"/>
+   <polyline points="382.812,400.771 625.129,400.771" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="miter"/>
+   <polyline points="382.812,302.589 625.129,302.589" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="miter"/>
+   <polyline points="382.812,400.771 382.812,302.589" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="miter"/>
+   <polyline points="625.129,400.771 625.129,302.589" fill="none" stroke-width="0.5" stroke-linecap="square" stroke-dasharray="16,0" stroke="#262626" stroke-linejoin="miter"/>
+   <polygon points="418.3,333.345 418.3,308.503 388.727,308.503 388.727,333.345" fill="#2d88f5" shape-rendering="crispEdges"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="18" xml:space="preserve" transform="translate(424.215,327.424) rotate(-0,-0,-6.5)">
+    <text x="0 12 25 37 " fill="rgb(0,0,0)" y="-0">FCFS</text>
+   </g>
+   <polygon points="418.3,364.101 418.3,339.259 388.727,339.259 388.727,364.101" fill="#fec834" shape-rendering="crispEdges"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="18" xml:space="preserve" transform="translate(424.215,358.18) rotate(-0,-0,-6.5)">
+    <text x="0 10 19 " fill="rgb(0,0,0)" y="-0">SJF</text>
+   </g>
+   <polygon points="418.3,394.857 418.3,370.016 388.727,370.016 388.727,394.857" fill="#8bca50" shape-rendering="crispEdges"/>
+   <g font-style="normal" font-weight="normal" font-family="'CMU Serif'" font-size="18" xml:space="preserve" transform="translate(424.215,392.436) rotate(-0,-0,-10)">
+    <text x="0 13 26 32 39 46 51 66 74 80 89 99 108 118 125 130 145 153 159 173 179 188 " fill="rgb(0,0,0)" y="-5">RR (time quantime = 8)</text>
+   </g>
+  </g>
+ </g>
+</svg>
