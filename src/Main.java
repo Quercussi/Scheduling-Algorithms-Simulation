@@ -1,13 +1,28 @@
 public class Main {
 
     private static Process[] dataset() {
-        return getFirstDataset();
+        return getThirdDataset();
+    }
+
+    private static void printArray(int[] arr) {
+        System.out.print('[');
+        for (int x : arr) {
+            System.out.printf("%d ",x);
+        }
+        System.out.println(']');
     }
 
     public static void main(String[] args) {
         ProcessExecutioner fcfs = new FCFSExecutioner(dataset(), true);
         ProcessExecutioner sjf = new SJFExecutioner(dataset(), true);
         ProcessExecutioner rr = new RRExecutioner(dataset(), true, 8);
+
+        System.out.printf("FCFS_avgWaitTime = %f\n",fcfs.avgWaitTime());
+        System.out.printf("SJF_avgWaitTime = %f\n",sjf.avgWaitTime());
+        System.out.printf("RR_avgWaitTime = %f\n",rr.avgWaitTime());
+        System.out.printf("FCFS_avgTurnAround = %f\n",fcfs.avgTurnAroundTime());
+        System.out.printf("SJF_avgTurnAround = %f\n",sjf.avgTurnAroundTime());
+        System.out.printf("RR_avgTurnAround = %f\n",rr.avgTurnAroundTime());
     }
 
     private static Process[] getFirstDataset() {
